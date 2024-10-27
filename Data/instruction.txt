@@ -1,0 +1,7 @@
+You can download the Dataset from the following link:
+
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
+If this dataset is too large, you can start with a smaller version data set here:
+
+https://www.kaggle.com/paramaggarwal/fashion-product-images-small
